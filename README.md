@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning javafx, JavaScript.
 - 💞️ I can code in these languages: Python & java ...
 - ⚡ Fun fact: I'm still learning.
-  👨🏽‍💻 I'm a cybersecurity enthusiast.  
+- 👨🏽‍💻 I'm a cybersecurity enthusiast.  
 
 <!---
 Ernesto-Mboene/Ernesto-Mboene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
