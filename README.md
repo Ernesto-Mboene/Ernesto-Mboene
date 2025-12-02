@@ -18,6 +18,7 @@ Estudante de Engenharia Informática com especialização em **Cibersegurança**
 
 ### **Linguagens e Frameworks**
 
+* **HTML / CSS**
 * **JavaScript / TypeScript**
 * **React.js**
 * **Python**
@@ -51,10 +52,7 @@ Criar soluções tecnológicas robustas, seguras e eficientes, enquanto aprofund
 * 💬 Pode entrar em contacto através do GitHub ou outras plataformas associadas
 * 🔎 Sempre aberto a colaborações e novos desafios
 
----
 
-⭐ *Se gostar dos meus projectos, considere deixar uma star!*
- 
 
 <!---
 Ernesto-Mboene/Ernesto-Mboene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
